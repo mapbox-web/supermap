@@ -5,7 +5,7 @@
 
 # SuperMap Mapbox
 
-SuperMap's modified version of Mapbox GL (v1.12.0) and iClient-MapboxGL (v11.0.1)
+超图改版的Mapbox GL（v1.12.0）以及iclent-mapboxgl（v11.0.1）
 
 - iclient-mapboxgl-es6.min.js
 - iclient-mapboxgl.min.css
@@ -13,7 +13,8 @@ SuperMap's modified version of Mapbox GL (v1.12.0) and iClient-MapboxGL (v11.0.1
 - mapbox-gl-enhance.js
 - mapbox-gl-enhance.mjs
 
-### Supports multiple coordinate systems
+
+## 支持多种坐标系
 
 - EPSG4326
 - EPSG4490
@@ -22,6 +23,6 @@ SuperMap's modified version of Mapbox GL (v1.12.0) and iClient-MapboxGL (v11.0.1
 - EPSG3857
 - ...
 
-## Usage Examples
+## 用法示例
 
-See [SuperMap](https://iclient.supermap.io/en/web/introduction/mapboxgl.html)
+参见 [超图官网](https://iclient.supermap.io/en/web/introduction/mapboxgl.html)

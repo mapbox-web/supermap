@@ -1,0 +1,25 @@
+{
+  "name": "@mapbox-web/supermap",
+  "description": "SuperMap's modified version of Mapbox GL",
+  "version": "1.0.1",
+  "main": "index.mjs",
+  "module": "index.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^6.0.3"
+  },
+  "files": [
+    "iclient-mapboxgl-es6.min.js",
+    "iclient-mapboxgl.min.css",
+    "mapbox-gl-enhance.css",
+    "mapbox-gl-enhance.js",
+    "mapbox-gl-enhance.mjs",
+    "index.js",
+    "index.mjs",
+    "package.json",
+    "README.md",
+    "README.zh.md"
+  ]
+}
